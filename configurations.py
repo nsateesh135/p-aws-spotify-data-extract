@@ -1,0 +1,11 @@
+'''
+Owner : Nehal Sateesh Kumar
+'''
+
+SPOTIFY_APP_NAME = "spotify_etl_pipeline"
+
+SPOTIFY_CLIENT_ID = "99844b0108064aa1a3542f767979cf71"
+
+SPOTIFY_CLIENT_SECRET = "c53dabf0326e4c679dddcff4e58ec55b"
+
+SPOTIFY_TOP_50_SONGS_URL = "37i9dQZEVXbNG2KDcFcKOF"
